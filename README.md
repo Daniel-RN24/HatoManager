@@ -117,7 +117,7 @@ Toda la información del panel se filtra por la **finca activa**, que se elige a
 | Rol | Permisos | A dónde llega al iniciar sesión |
 |---|---|---|
 | **admin** | gestionar usuarios, roles, permisos, mensajes, razas, categorías de animales, etapas productivas y métodos de pesaje | `/users` |
-| **ganadero** | gestionar dashboard, animales, lotes, sanidad, fincas, pesos, veterinarios, ventas y subastas | `/select-farm` → `/dashboard` |
+| **ganadero** | gestionar dashboard, animales, lotes, sanidad, fincas, pesos, veterinarios y ventas | `/select-farm` → `/dashboard` |
 | **veterinario** | gestionar sanidad, animales y pesos (solo en las fincas asignadas) | `/select-farm` → `/animals` |
 | **comprador** | gestionar e-commerce | `/` (tienda) |
 
@@ -517,7 +517,7 @@ La suite cubre los flujos de autenticación de Breeze/Fortify: login, registro, 
 
 ## Autores
 
-Proyecto desarrollado para **La Feria del Software**.
+Proyecto de grado del Tecnólogo en Análisis y Desarrollo de Software (SENA), presentado en **La Feria del Software**.
 
 - **Daniel Ramírez Navarro** — [@Daniel-RN24](https://github.com/Daniel-RN24)
 - **Mateo Hoyos Hernández** — [@plapers2](https://github.com/plapers2)
