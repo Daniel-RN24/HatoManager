@@ -519,7 +519,7 @@ La suite cubre los flujos de autenticación de Breeze/Fortify: login, registro, 
 
 Proyecto desarrollado para **La Feria del Software**.
 
-- **Daniel Ramírez Navarro** — [@DanielRN-SOFT](https://github.com/Daniel-RN24)
+- **Daniel Ramírez Navarro** — [@Daniel-RN24](https://github.com/Daniel-RN24)
 - **Mateo Hoyos Hernández** — [@plapers2](https://github.com/plapers2)
 
 ---
